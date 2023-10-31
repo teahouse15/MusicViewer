@@ -1,0 +1,37 @@
+.container {
+    -fx-background-color: gray;
+    -fx-padding: 15px;
+}
+
+.body {
+    -fx-background-color: white;
+    -fx-min-height: 700px;
+    -fx-min-width: 520px;
+    -fx-padding: 20px;
+}
+
+.border {
+    -fx-border-color: #000000; /* 边框颜色，可以根据需要修改 */
+    -fx-border-width: 1; /* 边框宽度，可以根据需要修改 */
+}
+
+.data {
+
+}
+
+.data-title Label {
+    -fx-border-width: 0 1 0 0;
+    -fx-border-color: #000000; /* 边框颜色，可以根据需要修改 */
+}
+
+.data-row {
+
+}
+
+.data-row Label {
+
+}
+
+.data-row TextField{
+
+}
